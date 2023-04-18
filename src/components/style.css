@@ -1,0 +1,24 @@
+.bold-button{
+    height: 100px;
+    width: 100px;
+    border-radius: 10%;
+    border: solid 0.5px #226157;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.status{
+    font-size:30px;
+    font-weight:bold;
+    margin-bottom: 20px;
+}
+.reset-button{
+    width: 250px;
+    height: 50px;
+    background-color:#226157;
+    color: white;
+    border: none;
+}
+.reset-button:hover{
+    background-color:#36544f;
+}
